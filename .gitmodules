@@ -7,3 +7,6 @@
 [submodule "GitTest/r-quick-text-new"]
 	path = GitTest/r-quick-text-new
 	url = https://github.com/malikslam/r-quick-text
+[submodule "GitTest/retraction-indexing-agreement"]
+	path = GitTest/retraction-indexing-agreement
+	url = https://github.com/infoqualitylab/retraction-indexing-agreement.git
