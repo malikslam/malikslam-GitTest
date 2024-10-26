@@ -1,0 +1,6 @@
+[submodule "r-quick-text"]
+	path = r-quick-text
+	url = https://github.com/malikslam/r-quick-text
+[submodule "GitTest/r-quick-text"]
+	path = GitTest/r-quick-text
+	url = https://github.com/malikslam/r-quick-text
