@@ -4,3 +4,6 @@
 [submodule "GitTest/r-quick-text"]
 	path = GitTest/r-quick-text
 	url = https://github.com/malikslam/r-quick-text
+[submodule "GitTest/r-quick-text-new"]
+	path = GitTest/r-quick-text-new
+	url = https://github.com/malikslam/r-quick-text
