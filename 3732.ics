@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+PRODID:-//University of Illinois//Web Services Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20241031T153839Z
+DTSTART:20241106T140000
+DTEND:20241106T140000
+SUMMARY:Building Science Graphics | Insight to Impact data visualization 
+ workshops
+TZID:America/Chicago
+CREATED:20241008T150000Z
+LAST-MODIFIED:20241018T150000Z
+DESCRIPTION:Jen Christiansen\, senior graphics editor at Scientific Ameri
+ can and author of Building Science Graphics\, will present \"Building Sc
+ ience Graphics.\" Jen has over two decades of experience producing illus
+ trated explanatory diagrams and data visualizations\, including for Nati
+ onal Geographic. She holds bachelor's degrees in geology and studio art 
+ from Smith College. — Strengthen your science communication skills throu
+ gh all of PRI's “Insight to Impact” data visualization workshops! PRI's 
+ Insight to Impact workshop series is designed to provide researchers at 
+ any stage of their careers with cutting-edge tools and techniques for da
+ ta visualization. Featuring expert speakers from leading institutions\, 
+ the series covers topics ranging from AI-powered visualizations to story
+ telling through graphics. These hybrid workshops will be held on select 
+ Wednesdays from 3–4 p.m. Each session includes a 45-minute presentation 
+ followed by a 15-minute Q&A. Join us either online via Zoom or in person
+  at the Illinois State Water Survey's Illinois Room (2204 Griffith Dr\, 
+ Champaign\, IL 61820). Visit the Insight to Impact page to see the full 
+ list of upcoming workshops.
+LOCATION:Illinois Room\, Illinois State Water Survey\, 2204 Griffith Dr\,
+  Champaign\, IL\, 61820
+CATEGORIES:Seminar/Symposium
+CONTACT:Robin Warne
+ORGANIZER:ruffatt1@illinois.edu
+URL:http://calendars.illinois.edu/calendar/calendar/detail/3732?key=2000010120000101335035
+ 29
+UID:33503529@illinois.edu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T153839Z
+DTSTART:20241113T140000
+DTEND:20241113T140000
+SUMMARY:Data Formulator: Creating Rich Data Visualizations with AI | Insi
+ ght to Impact data visualization workshops
+TZID:America/Chicago
+CREATED:20241008T150000Z
+LAST-MODIFIED:20241018T150000Z
+DESCRIPTION:Chenglong Wang\, a researcher at Microsoft specializing in in
+ teractive AI tools for data analysis\, will present \"Data Formulator: C
+ reating Rich Data Visualizations with AI.\" Wang completed his undergrad
+ uate studies at Peking University and earned his Ph.D. from the Universi
+ ty of Washington\, where he worked on program synthesis-powered tools. —
+  Strengthen your science communication skills through all of PRI's “Insi
+ ght to Impact” data visualization workshops! PRI's Insight to Impact wor
+ kshop series is designed to provide researchers at any stage of their ca
+ reers with cutting-edge tools and techniques for data visualization. Fea
+ turing expert speakers from leading institutions\, the series covers top
+ ics ranging from AI-powered visualizations to storytelling through graph
+ ics. These hybrid workshops will be held on select Wednesdays from 3–4 p
+ .m. Each session includes a 45-minute presentation followed by a 15-minu
+ te Q&A. Join us either online via Zoom or in person at the Illinois Stat
+ e Water Survey's Illinois Room (2204 Griffith Dr\, Champaign\, IL 61820)
+ . Visit the Insight to Impact page to see the full list of upcoming work
+ shops.
+LOCATION:Illinois Room\, Illinois State Water Survey\, 2204 Griffith Dr\,
+  Champaign\, IL\, 61820
+CATEGORIES:Seminar/Symposium
+CONTACT:Robin Warne
+ORGANIZER:ruffatt1@illinois.edu
+URL:http://calendars.illinois.edu/calendar/calendar/detail/3732?key=2000010120000101335035
+ 33
+UID:33503533@illinois.edu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T153839Z
+DTSTART:20241211T140000
+DTEND:20241211T140000
+SUMMARY:USGS Data Visualizations | Insight to Impact data visualization w
+ orkshops
+TZID:America/Chicago
+CREATED:20241008T150000Z
+LAST-MODIFIED:20241018T150000Z
+DESCRIPTION:Cee Nell and Althea A. Archer\, data scientists at the USGS V
+ izLab\, will present \"USGS data visualizations.\" Nell leads VizLab and
+  Analytics at the USGS Water Resources Mission Area\, developing reprodu
+ cible workflows for data visualizations. They hold a Ph.D. in Ecology & 
+ Evolutionary Biology from the University of California\, Irvine.  Archer
+  is a science communicator at the USGS Water Resources Mission Area. She
+  holds a Ph.D. in Forestry from Auburn University and specializes in mak
+ ing science accessible through data visualization and storytelling. — St
+ rengthen your science communication skills through all of PRI's “Insight
+  to Impact” data visualization workshops! PRI's Insight to Impact worksh
+ op series is designed to provide researchers at any stage of their caree
+ rs with cutting-edge tools and techniques for data visualization. Featur
+ ing expert speakers from leading institutions\, the series covers topics
+  ranging from AI-powered visualizations to storytelling through graphics
+ . These hybrid workshops will be held on select Wednesdays from 3–4 p.m.
+  Each session includes a 45-minute presentation followed by a 15-minute 
+ Q&A. Join us either online via Zoom or in person at the Illinois State W
+ ater Survey's Illinois Room (2204 Griffith Dr\, Champaign\, IL 61820). V
+ isit the Insight to Impact page to see the full list of upcoming worksho
+ ps.
+LOCATION:Illinois Room\, Illinois State Water Survey\, 2204 Griffith Dr\,
+  Champaign\, IL\, 61820
+CATEGORIES:Seminar/Symposium
+CONTACT:Robin Warne
+ORGANIZER:ruffatt1@illinois.edu
+URL:http://calendars.illinois.edu/calendar/calendar/detail/3732?key=2000010120000101335035
+ 34
+UID:33503534@illinois.edu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T153839Z
+DTSTART:20250502T080000
+DTEND:20250502T140000
+SUMMARY:2025 PRI Expo: Bridging the Past & Future in Illinois
+TZID:America/Chicago
+CREATED:20241016T150000Z
+LAST-MODIFIED:20241016T150000Z
+DESCRIPTION:Discovery awaits at the 2025 PRI Expo! Join us for this free\
+ , family-friendly event\, where visitors of all ages can immerse themsel
+ ves in science and technology with over 50 STEM exhibits\, demonstration
+ s\, and hands-on activities. During the Expo\, PRI scientists and staff 
+ will offer visitors a glimpse of the fascinating subjects they study eve
+ ry day—natural history\, archaeology\, hydrology and water\, weather and
+  climate\, pollution prevention\, and sustainable energy. From digging f
+ or fossils to learning about Illinois’ birds and bugs\, there will be so
+ mething for everyone to enjoy! Visit PRI Expo 2025 for more information.
+ 
+LOCATION:Research Park at the University of Illinois Urbana-Champaign
+CATEGORIES:Reception/Open House
+CONTACT:Robin Warne 217-300-0428
+ORGANIZER:rwarne@illinois.edu
+URL:http://calendars.illinois.edu/calendar/calendar/detail/3732?key=2000010120000101335045
+ 50
+UID:33504550@illinois.edu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T153839Z
+DTSTART:20250503T090000
+DTEND:20250503T140000
+SUMMARY:2025 PRI Expo: Bridging the Past & Future in Illinois
+TZID:America/Chicago
+CREATED:20241016T150000Z
+LAST-MODIFIED:20241016T150000Z
+DESCRIPTION:Discovery awaits at the 2025 PRI Expo! Join us for this free\
+ , family-friendly event\, where visitors of all ages can immerse themsel
+ ves in science and technology with over 50 STEM exhibits\, demonstration
+ s\, and hands-on activities. During the Expo\, PRI scientists and staff 
+ will offer visitors a glimpse of the fascinating subjects they study eve
+ ry day—natural history\, archaeology\, hydrology and water\, weather and
+  climate\, pollution prevention\, and sustainable energy. From digging f
+ or fossils to learning about Illinois’ birds and bugs\, there will be so
+ mething for everyone to enjoy! Visit PRI Expo 2025 for more information.
+ 
+LOCATION:Research Park at the University of Illinois Urbana-Champaign
+CATEGORIES:Reception/Open House
+CONTACT:Robin Warne 217-300-0428
+ORGANIZER:rwarne@illinois.edu
+URL:http://calendars.illinois.edu/calendar/calendar/detail/3732?key=2000010120000101335045
+ 52
+UID:33504552@illinois.edu
+END:VEVENT
+END:VCALENDAR
