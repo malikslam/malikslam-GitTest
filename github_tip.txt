@@ -1,0 +1,57 @@
+ git clone git@github.com:malikslam/GitTest.git
+ ssh-keygen -t ed25519 -C "salamimalik@gmail.com"
+ ssh-add -K git_ssh_key  # for add the private key to your PC to recognize th IP
+ (/Users/malikslam/.ssh/id_ed25519): git_ssh_key
+  github_testing % pbcopy < git_ssh_key.pub
+malikslam@wirelessprv-10-192-223-117 GitTest % git add README.md
+malikslam@wirelessprv-10-192-223-117 GitTest % git commit -m "first commit"
+malikslam@wirelessprv-10-192-223-117 GitTest % git push origin main
+
+malikslam@wirelessprv-10-192-223-117 GitTest % git submodule add "https://github.com/malikslam/r-quick-text" 
+git submodule update --init --recursive 
+
+
+
+>> git remote remove origin # Remove remote repo
+>> git remote -v # check existing remote repo
+>> git branch # check which branch you are in
+>> git checkout my-actual-branch # switch to other branch if not in master
+
+>>  git remote set-url origin git@github.com:malikslam/malikslam-GitTest.git  # If you have the SSH public key
+>> ssh -T git@github.com  # Check SSH connection
+
+
+Exist GitHub: that you have repo locally
+>> git remote add origin git@github.com:malikslam/malikslam-GitTest.git
+>> git remote -v
+>> git pull origin main # if fatal: Could not read from remote repository. Do below:
+>>  ssh-add ../git_ssh_key  # Add your public/private key
+>> git ls-remote --heads origin # Check how directory was in remote e.g. refs/heads/master
+>> git pull origin master
+
+git submodule add https://github.com/infoqualitylab/retraction-indexing-agreement.git 
+
+# https://stackoverflow.com/questions/42755839/add-multiple-project-in-one-repository-github
+
+ # https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+## or create a new repository on the command line
+echo "# GitTest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:malikslam/GitTest.git
+git push -u origin main
+
+## …or push an existing repository from the command line
+git remote add origin git@github.com:malikslam/GitTest.git
+git branch -M main
+git push -u origin main
+
+
+
+Example:
+https://uofi.app.box.com/file/1375048634133
+https://uofi.app.box.com/file/1375056253777
